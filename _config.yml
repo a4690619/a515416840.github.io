@@ -5,22 +5,20 @@ markdown: redcarpet
 # 作者信息
 author: 
   name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
+  email: 515416840@qq.com
+  link: http://a4690619.github.io
   weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  github: https://github.com/a4690619
 
 # 站点信息
 title: 启灵的博客
 description: My personal blog
-url: http://painterlin.com
+url: http://a4690619.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: /public/img/deer3.jpg
+favicon: /public/img/deer3.jpg
 
 # google analytics 设置
 ga:
