@@ -1,10 +1,11 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
-markdown: redcarpet
+gems: [jekyll-paginate]
+markdown: kramdown
 
 # 作者信息
 author: 
-  name: Anya Lin
+  name: 付达贵
   email: 515416840@qq.com
   link: http://a4690619.github.io
   weibo: http://weibo.com/orangeissweet
